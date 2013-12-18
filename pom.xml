@@ -1185,4 +1185,13 @@
     </pluginRepository>
   </pluginRepositories>
 
+  <profiles>
+    <profile>
+      <id>skipUnitTests</id>
+      <properties>
+        <skipTests>true</skipTests>
+      </properties>
+    </profile>
+  </profiles>
+
 </project>
