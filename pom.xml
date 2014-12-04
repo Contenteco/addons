@@ -948,7 +948,7 @@
       <dependency>
         <groupId>org.nuxeo.template.rendering</groupId>
         <artifactId>nuxeo-template-rendering-core</artifactId>
-        <version>${nuxeo.templates.version}</version>
+        <version>5.9.3-NXP-14543</version>
       </dependency>
       <dependency>
         <groupId>org.nuxeo.template.rendering</groupId>
