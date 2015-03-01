@@ -49,7 +49,6 @@
     <module>nuxeo-platform-shibboleth-groups-web</module>
     <module>nuxeo-platform-user-dashboard-compat</module>
     <module>nuxeo-platform-users-management-compat</module>
-    <module>nuxeo-platform-rendition</module>
     <module>nuxeo-platform-replication</module>
     <module>nuxeo-apidoc-server</module>
   </modules>
