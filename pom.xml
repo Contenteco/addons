@@ -7,6 +7,7 @@
     <version>5.9.5</version>
   </parent>
 
+  <version>5.9.5-HF</version>
   <artifactId>nuxeo-addons-parent</artifactId>
   <name>Nuxeo Addons parent POM</name>
   <packaging>pom</packaging>
