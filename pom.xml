@@ -400,7 +400,7 @@
       <dependency>
         <groupId>org.nuxeo.ecm.platform</groupId>
         <artifactId>nuxeo-wss</artifactId>
-        <version>${nuxeo.fsconnectors.version}</version>
+        <version>${nuxeo.su.version}</version>
       </dependency>
       <dependency>
         <groupId>org.nuxeo.ecm.platform</groupId>
